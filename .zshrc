@@ -1,5 +1,5 @@
-# Git Plugin
-source ~/zsh/git-aliases.zsh
+# Aliases
+source ~/.zsh/aliases.zsh
 
 # Git Completion
 zstyle ':completion:*:*:git:*' script ~/.zsh/.git-completion.bash
